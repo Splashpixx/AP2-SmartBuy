@@ -1,0 +1,1 @@
+class DiscountItem(productName: String, salesPrice: Float){ }
