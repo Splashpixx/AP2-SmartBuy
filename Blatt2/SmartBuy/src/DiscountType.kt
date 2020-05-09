@@ -1,3 +1,4 @@
+
 enum class DiscountType(val disc: Int) {
     SUMMER(20),
     SHORTLIFETIME(10),
